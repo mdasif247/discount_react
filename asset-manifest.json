@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/discount_react/static/css/main.073c9b0a.css",
+    "main.js": "/discount_react/static/js/main.0fb4f681.js",
+    "static/js/787.7ab45602.chunk.js": "/discount_react/static/js/787.7ab45602.chunk.js",
+    "index.html": "/discount_react/index.html",
+    "main.073c9b0a.css.map": "/discount_react/static/css/main.073c9b0a.css.map",
+    "main.0fb4f681.js.map": "/discount_react/static/js/main.0fb4f681.js.map",
+    "787.7ab45602.chunk.js.map": "/discount_react/static/js/787.7ab45602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0fb4f681.js"
+  ]
+}
